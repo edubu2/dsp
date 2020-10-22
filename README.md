@@ -1,5 +1,5 @@
 # Data Science Bootcamp Pre-work Revision 2019
-- Elliot Wilens version
+Elliot's fork
 
 **Table of Contents**
 
