@@ -47,7 +47,7 @@ All of this is based on an assumption that the highest income is one million dol
 
 Without better information about the top of this distribution, we can't say much about the skewness of the distribution.
 
-### Upper-Bound = \$1,000,000 or \$10^6
+### Upper-Bound = \$10,000,000 or \$10^7
 
 ```
 # Solution goes here
